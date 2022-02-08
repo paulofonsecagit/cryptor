@@ -25,3 +25,13 @@ C:\PROJETOS\Git\Cryptor\Imperia.Cryptor\obj\Release\Imperia.Cryptor.vbproj.CoreC
 C:\PROJETOS\Git\Cryptor\Imperia.Cryptor\obj\Release\Imperia.Cryptor.vbproj.CopyComplete
 C:\PROJETOS\Git\Cryptor\Imperia.Cryptor\obj\Release\Cryptor.exe
 C:\PROJETOS\Git\Cryptor\Imperia.Cryptor\obj\Release\Cryptor.xml
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\bin\Cryptor.exe
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\bin\Cryptor.xml
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\obj\Release\Imperia.Cryptor.vbprojResolveAssemblyReference.cache
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\obj\Release\Cryptor.Form1.resources
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\obj\Release\Cryptor.Resources.resources
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\obj\Release\Imperia.Cryptor.vbproj.GenerateResource.cache
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\obj\Release\Imperia.Cryptor.vbproj.CoreCompileInputs.cache
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\obj\Release\Imperia.Cryptor.vbproj.CopyComplete
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\obj\Release\Cryptor.exe
+C:\PROJETOS\Git\Crypto_Rijndael\Imperia.Cryptor\obj\Release\Cryptor.xml
