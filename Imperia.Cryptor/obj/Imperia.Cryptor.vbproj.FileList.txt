@@ -1,0 +1,14 @@
+obj\Debug\Cryptor.exe
+obj\Debug\Cryptor.pdb
+bin\Cryptor.exe
+bin\Cryptor.xml
+bin\Imperia.Encryption.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Cryptor.Form1.resources
+obj\Debug\Imperia.Cryptor.vbproj.GenerateResource.Cache
+obj\Debug\Cryptor.xml
+obj\Release\Cryptor.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Cryptor.Form1.resources
+obj\Release\Imperia.Cryptor.vbproj.GenerateResource.Cache
+obj\Release\Cryptor.xml
